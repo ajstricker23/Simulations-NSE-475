@@ -2,7 +2,7 @@ mesh:
   Z: 170.0
   R: 70.0
   dz: 10.0
-  dr: 5.0
+  dr: 0.5
   dt: 0.05
   T: 40.0
   recirculation Z: 350.0
