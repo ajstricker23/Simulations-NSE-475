@@ -11,20 +11,20 @@ geometry:
   background: fuel salt
   region:
     material: moderator
-    inner-r: 10.0
-    outer-r: 20.0
+    inner-r: 1.0
+    outer-r: 22.0
     upper-z: 170.0
     lower-z: 0.0
   region:
     material: moderator
-    inner-r: 30.0
-    outer-r: 40.0
+    inner-r: 23.0
+    outer-r: 44.0
     upper-z: 170.0
     lower-z: 0.0
   region:
     material: moderator
-    inner-r: 50.0
-    outer-r: 60.0
+    inner-r: 45.0
+    outer-r: 66.0
     upper-z: 170.0
     lower-z: 0.0
 
