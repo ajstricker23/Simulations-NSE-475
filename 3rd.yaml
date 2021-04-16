@@ -2,7 +2,7 @@ mesh:
   Z: 170.0
   R: 70.0
   dz: 10.0
-  dr: 5.0
+  dr: 0.5
   dt: 0.05
   T: 40.0
   recirculation Z: 350.0
@@ -11,19 +11,19 @@ geometry:
   background: fuel salt
   region:
     material: moderator
-    inner-r: 10.0
+    inner-r: 9.5
     outer-r: 20.0
     upper-z: 170.0
     lower-z: 0.0
   region:
     material: moderator
-    inner-r: 30.0
+    inner-r: 29.5
     outer-r: 40.0
     upper-z: 170.0
     lower-z: 0.0
   region:
     material: moderator
-    inner-r: 50.0
+    inner-r: 49.5
     outer-r: 60.0
     upper-z: 170.0
     lower-z: 0.0
