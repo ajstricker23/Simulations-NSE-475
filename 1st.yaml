@@ -11,7 +11,7 @@ geometry:
   background: fuel salt
   region:
     material: moderator
-    inner-r: 10.0
+    inner-r: 9.5
     outer-r: 20.0
     upper-z: 170.0
     lower-z: 0.0
